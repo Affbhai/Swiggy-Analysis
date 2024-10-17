@@ -18,20 +18,33 @@ Dashboard Creation: Combine visualizations into a unified, easy-to-navigate dash
 Insights & Recommendations: Use the dashboard to make data-driven business recommendations.
 
 📋 Task List
-Top 10 Areas with Most Restaurants: Identify areas with the highest restaurant density.
-Popular Food Types Served by Swiggy Restaurants: Discover popular cuisines city-wise.
-Top Rated Swiggy Restaurants: Calculate the percentage of restaurants with ratings above 4.5.
-Correlation of Factors Affecting Ratings: Explore how factors like price and delivery time impact ratings.
-Price vs. Average Rating: Analyze the relationship between restaurant pricing and ratings.
-City-wise Restaurant Count: Determine the number of restaurants in each city.
-Price Analysis: Understand the price distribution among restaurants.
-Delivery Time Analysis: Evaluate average delivery times to identify bottlenecks.
-Cuisine Analysis: Examine the variety of cuisines offered across restaurants.
-Area-wise Restaurant Analysis: Analyze the number of restaurants in different areas.
-Correlation Analysis: Investigate correlations between price, ratings, and delivery time.
-Customer Feedback Analysis: Analyze customer reviews and ratings.
-Geographical Mapping: Create maps to visualize restaurant locations.
-Business Recommendations: Provide actionable insights for growth and operational efficiency.
+-Top 10 Areas with Most Restaurants: Identify areas with the highest restaurant density.
+
+-Popular Food Types Served by Swiggy Restaurants: Discover popular cuisines city-wise.
+
+-Top Rated Swiggy Restaurants: Calculate the percentage of restaurants with ratings above 4.5.
+
+-Correlation of Factors Affecting Ratings: Explore how factors like price and delivery time impact ratings.
+
+-Price vs. Average Rating: Analyze the relationship between restaurant pricing and ratings.
+
+-City-wise Restaurant Count: Determine the number of restaurants in each city.
+
+-Price Analysis: Understand the price distribution among restaurants.
+
+-Delivery Time Analysis: Evaluate average delivery times to identify bottlenecks.
+
+-Cuisine Analysis: Examine the variety of cuisines offered across restaurants.
+
+-Area-wise Restaurant Analysis: Analyze the number of restaurants in different areas.
+
+-Correlation Analysis: Investigate correlations between price, ratings, and delivery time.
+
+-Customer Feedback Analysis: Analyze customer reviews and ratings.
+
+-Geographical Mapping: Create maps to visualize restaurant locations.
+
+-Business Recommendations: Provide actionable insights for growth and operational efficiency.
 
 🏆 Results
 An interactive Power BI dashboard offering detailed insights into restaurant performance.
